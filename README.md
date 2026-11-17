@@ -36,4 +36,4 @@ Aplikasi GUI sederhana untuk mencatat sesi dan menghitung biaya pelanggan warnet
 
 ## Screenshot Tampilan
 
-![screenshot](image.png)
+![screenshot](screenshot/image.png)
